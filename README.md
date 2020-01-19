@@ -32,3 +32,6 @@ Assembly programming language codes
 3. Seyfarth, R. - Introduction to 64 Bit Intel Assembly Language Programming for Linux
 
 4. Hirzel, M. - Introduction to x64 Assembly
+
+# Dissasemble an executable:
+Disassemble: objdump -d executable.exe
