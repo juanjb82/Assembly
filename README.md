@@ -33,5 +33,5 @@ Assembly programming language codes
 
 4. Hirzel, M. - Introduction to x64 Assembly
 
-# Dissasemble an executable:
+# Disassemble an executable:
 Disassemble: objdump -d executable.exe
